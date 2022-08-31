@@ -19,10 +19,12 @@ p {
 .img1 {
   display: block;
   margin: 20px auto;
+  border-radius: 10px;
 }
 .img2 {
   display: block;
   margin: 20px auto;
+  border-radius: 10px;
 }
 a {
   margin: 20px auto;
